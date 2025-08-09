@@ -42,10 +42,10 @@ We checked whether the actual group sizes matched expected proportions.
 ### 2. Primary Metric: Conversion Rate
 
 - **Statistical Test**: Two-proportion Z-test  
-- **Effect Size**: Relative difference in conversion rates  
-  \[
-  \text{Relative Effect} = \frac{\text{Mean}_\text{Variant}}{\text{Mean}_\text{Control}} - 1
-  \]
+- **Effect Size**: Relative difference in conversion rates
+- 
+ **Relative Effect** = (Mean<sub>Variant</sub> / Mean<sub>Control</sub>) − 1
+
 
 | Metric           | Value    |
 |------------------|----------|
